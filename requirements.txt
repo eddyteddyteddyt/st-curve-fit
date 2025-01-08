@@ -1,1 +1,5 @@
-matplotlib==3.10.1
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+scipy.optimize
